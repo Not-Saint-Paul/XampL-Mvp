@@ -96,6 +96,9 @@ namespace Abc
             View view = new View();
             presentor.View = view;
             view.DirectoryPathChange("C:\\");
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }
