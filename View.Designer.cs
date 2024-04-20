@@ -1,7 +1,7 @@
 ﻿
 namespace Abc
 {
-    partial class Form1
+    partial class View
     {
         /// <summary>
         /// Обязательная переменная конструктора.
